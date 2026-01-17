@@ -1,17 +1,21 @@
-<h1>
-    <a href="https://www.dio.me/">
-     <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
-    <span> Repositório DIO
-</span>
-</h1>
+# Microsoft Azure Cloud Native 2026
 
-Repositório desenvolvido para fins didáticos, entrega de desafios, com a disponibilização de materiais de apoio e exercício prático dos labs.
+Este repositório documenta minha jornada completa no bootcamp
+**Microsoft Azure Cloud Native 2026**.
+
+## Estrutura do Bootcamp
+- ✅ 11 cursos
+- ✅ 6 desafios de projeto
+- ✅ 3 desafios de código
 
 ## Objetivo
-Domínio da Azure Application Platform!
+Registrar ambientes, códigos, decisões técnicas e aprendizados
+adquiridos ao longo do bootcamp, servindo como material de estudo
+e portfólio profissional.
 
-Uma jornada prática e objetiva para você dominar a criação e escalabilidade de aplicações modernas na Azure
-
-
-## Ferramentas
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://github.com/matthecog)
+## Tecnologias
+- Microsoft Azure
+- Linux
+- Containers
+- Infraestrutura como Código (IaC)
+- Git & GitHub
