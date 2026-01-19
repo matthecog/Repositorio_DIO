@@ -29,6 +29,3 @@ Cada desafio possui uma pasta dedicada contendo:
 Os desafios são documentados conforme sua conclusão,
 refletindo a evolução prática ao longo do bootcamp.
 
-## 🔗 Referências Relacionadas
-
-Referencias para 
