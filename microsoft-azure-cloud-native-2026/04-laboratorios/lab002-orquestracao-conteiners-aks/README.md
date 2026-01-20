@@ -34,11 +34,7 @@ Durante o laboratório do curso foram realizadas as seguintes etapas:
 - Build da imagem do contêiner da aplicação
 - Envio da imagem para o **Azure Container Registry (ACR)**
 - Criação e configuração de um cluster **AKS**
-- Deploy da Landing Page no Kubernetes
-- Testes de escalabilidade do ambiente
 
 ## 📌 Observações e Aprendizados
 - O AKS abstrai grande parte da complexidade operacional do Kubernetes
 - O ACR é essencial para o versionamento e distribuição de imagens
-- A separação entre código, imagem e infraestrutura facilita manutenção e escala
-- Kubernetes é um pilar central para arquiteturas Cloud Native no Azure
