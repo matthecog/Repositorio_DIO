@@ -1,4 +1,4 @@
-# Ambiente 01 – Backend do E-Commerce
+# Laboratório 01 – Backend do E-Commerce
 
 ## 📌 Status
 ✅ Concluído

@@ -1,4 +1,4 @@
-# Laboratório — Deploy e Escalabilidade de Aplicação com AKS e ACR
+# Laboratório 02 — Deploy e Escalabilidade de Aplicação com AKS e ACR
 
 ## 📌 Status
 ✅ Concluído
