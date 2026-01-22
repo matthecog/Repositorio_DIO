@@ -14,16 +14,6 @@ Computing e Microsoft Azure.
 - Desenvolver raciocínio técnico e tomada de decisão
 - Documentar soluções e aprendizados adquiridos
 
-## 📁 Organização
-
-Cada desafio possui uma pasta dedicada contendo:
-
-- `README.md` com:
-  - Status do desafio
-  - Descrição do problema
-  - Solução adotada
-  - Principais aprendizados
-
 ## 📌 Observação
 
 Os desafios são documentados conforme sua conclusão,
