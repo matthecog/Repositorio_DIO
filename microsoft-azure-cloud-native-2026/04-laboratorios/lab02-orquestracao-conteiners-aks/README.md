@@ -4,7 +4,7 @@ Este laboratório foi desenvolvido em duas etapas, acompanhando a evolução do 
 ## 📌 Status
 ✅ Concluído
 
-## 🔹 Parte 1 — Fundamentos e Criação do Ambiente (Aula 03)
+## 🔹 Parte 1 — Fundamentos e Criação do Ambiente ([Aula 03](/microsoft-azure-cloud-native-2026/01-cursos/03-orquestracao-de-conteineres-com-azure-kubernetes-service-AKS/))
 
 ## 🎯 Objetivo
 - Criar uma aplicação simples conteinerizada
@@ -27,8 +27,7 @@ Este laboratório foi desenvolvido em duas etapas, acompanhando a evolução do 
 
 </p>
 
-## 🔹 Parte 2 — Criando app no AKS (Aula 04)
-
+## 🔹 Parte 2 — Criando app no AKS ([Aula 04](/microsoft-azure-cloud-native-2026/01-cursos/04-trabalhando-com-azure-kubernetes-services-aks-e-k8s/))
 
 ## 🎯 Objetivo
 - Criar os .YAML para configuração do pod

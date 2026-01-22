@@ -1,33 +1,34 @@
 # Orquestração de Contêineres com Azure Kubernetes Service (AKS)
-Este curso aborda os fundamentos e a aplicação prática da
-**orquestração de contêineres** utilizando o **Azure Kubernetes Service (AKS)**,
-com foco na criação, publicação e escalabilidade de aplicações
-conteinerizadas na nuvem.
 
-O conteúdo conecta conceitos essenciais de contêineres com serviços
-gerenciados do Azure, preparando o ambiente para cenários reais de
-deploy e operação.
+## 📌 Status
 
-## 🎯 Objetivo do Curso
-- Compreender o papel do Kubernetes na orquestração de contêineres
-- Entender a integração entre **AKS** e **Azure Container Registry (ACR)**
-- Criar e publicar imagens de contêiner no Azure
-- Implantar e escalar aplicações em um cluster Kubernetes
-- Aplicar conceitos práticos por meio de laboratório hands-on
+✅ Concluído
 
-## 📘 Principais Conceitos Abordados
-- Contêinerização de aplicações
-- Kubernetes (K8s) e seus componentes básicos
-- Azure Kubernetes Service (AKS)
-- Azure Container Registry (ACR)
-- Deploy de aplicações em cluster
-- Escalabilidade de workloads em Kubernetes
+## 🎯 Objetivo
+
+Compreender o conceito de contêiner. Criar e publicar imagens de contêiner no Azure e
+aplicar conceitos práticos por meio de laboratório.
+
+## 🚀 Conteúdos Abordados
+
+Durante esta fase do bootcamp, foram estudados os seguintes conceitos:
+
+
+## Máquina Virutal x Docker
+
+VMs virtualizam hardware completo (com sistema operacional próprio), enquanto Docker usa containers, compartilhando o SO do host.
+VMs são mais isoladas, porém mais pesadas e lentas para iniciar.
+Containers são leves, rápidos e portáveis, ideais para microserviços.
+VMs oferecem maior controle do ambiente; Docker foca em padronização e agilidade.
+Em resumo: VM = infraestrutura, Docker = aplicação.
 
 ## ☁️ Serviços Azure Explorados
+
 - **Azure Kubernetes Service (AKS)**
 - **Azure Container Registry (ACR)**
 
 ## 🧪 Atividades Práticas / Laboratório
+
 Durante o laboratório do curso foram realizadas as seguintes etapas:
 
 - Criação de uma **Landing Page** simples conteinerizada
@@ -36,5 +37,12 @@ Durante o laboratório do curso foram realizadas as seguintes etapas:
 - Criação e configuração de um cluster **AKS**
 
 ## 📌 Observações e Aprendizados
+
 - O AKS abstrai grande parte da complexidade operacional do Kubernetes
 - O ACR é essencial para o versionamento e distribuição de imagens
+
+## 🔗 Recursos Complementares
+
+- Pasta do Laboratório: [Laboratório](/microsoft-azure-cloud-native-2026/04-laboratorios/lab02-orquestracao-conteiners-aks/)
+- Códigos utilizados: [Códigos](/microsoft-azure-cloud-native-2026/04-laboratorios/lab02-orquestracao-conteiners-aks/codigos/)
+- Imagens do ambiente: [Imagens](/microsoft-azure-cloud-native-2026/04-laboratorios/lab02-orquestracao-conteiners-aks/imagens/)
