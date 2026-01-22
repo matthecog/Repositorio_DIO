@@ -37,3 +37,9 @@ Durante o curso são realizados laboratórios para reforçar o aprendizado, incl
 ## 📌 Observações
 
 - O ACR é essencial para o versionamento e distribuição de imagens
+
+## 🔗 Recursos Complementares
+
+- Pasta do Laboratório: [Laboratório](/microsoft-azure-cloud-native-2026/04-laboratorios/lab02-orquestracao-conteiners-aks/)
+- Códigos utilizados: [Códigos](/microsoft-azure-cloud-native-2026/04-laboratorios/lab02-orquestracao-conteiners-aks/codigos/)
+- Imagens do ambiente: [Imagens](/microsoft-azure-cloud-native-2026/04-laboratorios/lab02-orquestracao-conteiners-aks/imagens/)
