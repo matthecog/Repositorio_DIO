@@ -74,6 +74,7 @@ Os Aplicativos de Contêiner do Azure permitem que você execute microsserviços
 - Cada revisão de aplicativo pode fazer referência a um ou mais segredos.
 - Quando você cria um aplicativo de contêiner, os segredos são definidos usando o parâmetro -- secrets.
 
+## Aula 03
 ### Exercício: Implantar um aplicativo de contêiner
 
 Neste exercício, você cria um ambiente seguro dos Aplicativos de Contêiner e implantará o aplicativo de contêiner.
