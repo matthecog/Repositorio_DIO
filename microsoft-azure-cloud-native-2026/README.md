@@ -21,7 +21,7 @@ ambientes reais, boas práticas e aprendizado contínuo.
 - **03-desafios-de-codigo**  
   Exercícios focados em lógica, automação e resolução de problemas.
 
-- **04-ambientes**  
+- **04-laboratorios**  
   Documentação dos ambientes criados no Azure (VMs, serviços, recursos).
 
 - **05-erros-e-aprendizados**  
