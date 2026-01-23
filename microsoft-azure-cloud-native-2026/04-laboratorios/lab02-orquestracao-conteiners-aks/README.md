@@ -55,3 +55,27 @@ Este laboratório foi desenvolvido em duas etapas, acompanhando a evolução do 
     <img src="imagens/workloads.png" width="700">
     <img src="imagens/service_ingresses.png" width="700">
     <img src="imagens/tela_landinpage.png" width="700">
+
+## 🔹 Parte 3 — Criando Web App ([Aula 05](/microsoft-azure-cloud-native-2026/01-cursos/05-aplicacoes-web-com-azure-app-service/))
+
+## 🎯 Objetivo
+
+- Criar uma API e rodar no Web APP
+
+## 🛠️ Serviços Azure Utilizados
+
+- Web APP
+
+## 🏗️ Configuração do Ambiente
+
+- Criação Web App
+- Criação API
+- Deploy API no Web App
+
+## 📷 Evidências
+<p align="center">
+    <img src="imagens/resource-group.png" width="700">
+    <img src="imagens/web-app.png" width="700">
+    <img src="imagens/tela-api.png" width="700">
+
+    

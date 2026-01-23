@@ -86,3 +86,9 @@ Objetivos
 - Criar um aplicativo de contêiner
 - Verificar a implantação
 - Limpar os recursos
+
+## 🔗 Recursos Complementares
+
+- Pasta do Laboratório: [Laboratório](/microsoft-azure-cloud-native-2026/04-laboratorios/lab03-implantar-app-conteiner/)
+- Códigos utilizados: [Códigos](/microsoft-azure-cloud-native-2026/04-laboratorios/lab03-implantar-app-conteiner/codigos/)
+- Imagens do ambiente: [Imagens](/microsoft-azure-cloud-native-2026/04-laboratorios/lab03-implantar-app-conteiner/imagens/)
