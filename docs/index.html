@@ -1,26 +1,66 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="pt-BR">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Hello World</title>
-    <style>
-        body {
-            font-family: system-ui, sans-serif;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-            margin: 0;
-            background-color: #f4f4f9;
-            color: #333;
-        }
-        h1 {
-            font-size: 2.5rem;
-        }
-    </style>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Catálogo de repositórios de estudo de Matheus Guimarães.">
+  <title>Repositório de Estudos</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <h1>Hello, World!</h1>
+  <a class="skip-link" href="#catalogo">Pular para os repositórios</a>
+  <header class="hero">
+    <div class="container">
+      <a class="brand" href="#topo" aria-label="Página inicial">
+        <span class="brand-mark" aria-hidden="true">&lt;/&gt;</span>
+        <span>Repositorio_Estudo</span>
+      </a>
+      <section id="topo" class="hero-content">
+        <p class="eyebrow">PORTFÓLIO DE APRENDIZADO</p>
+        <h1>Estudos que viram <span>projetos.</span></h1>
+        <p class="hero-text">Um catálogo organizado dos meus repositórios de estudo, tecnologias e jornadas de aprendizado.</p>
+        <div class="hero-actions">
+          <a class="button primary" href="#catalogo">Explorar projetos <span aria-hidden="true">↓</span></a>
+          <a class="button secondary" id="github-profile" href="https://github.com/" target="_blank" rel="noreferrer">Ver GitHub <span aria-hidden="true">↗</span></a>
+        </div>
+      </section>
+    </div>
+  </header>
+
+  <main class="container">
+    <section class="stats" aria-label="Resumo dos repositórios">
+      <article class="stat-card"><span class="stat-icon">◈</span><div><strong id="total-projects">0</strong><span>Projetos</span></div></article>
+      <article class="stat-card"><span class="stat-icon success">✓</span><div><strong id="completed-projects">0</strong><span>Finalizados</span></div></article>
+      <article class="stat-card"><span class="stat-icon progress">◌</span><div><strong id="in-progress-projects">0</strong><span>Em andamento</span></div></article>
+      <article class="stat-card"><span class="stat-icon purple">⌘</span><div><strong id="total-languages">0</strong><span>Linguagens</span></div></article>
+      <article class="stat-card"><span class="stat-icon blue">◆</span><div><strong id="total-platforms">0</strong><span>Plataformas</span></div></article>
+    </section>
+
+    <section class="catalog-layout" id="catalogo">
+      <aside class="filters-panel" aria-label="Filtros">
+        <div class="filters-heading"><div><p class="eyebrow">ENCONTRE O QUE PROCURA</p><h2>Filtros</h2></div><button class="clear-filters" id="clear-filters" type="button">Limpar</button></div>
+        <div class="filter-group"><h3>Categoria</h3><div id="category-filters" class="filter-options"></div></div>
+        <div class="filter-group"><h3>Linguagem</h3><div id="language-filters" class="filter-options"></div></div>
+        <div class="filter-group"><h3>Plataforma</h3><div id="platform-filters" class="filter-options"></div></div>
+        <div class="filter-group"><h3>Status</h3><div id="status-filters" class="filter-options"></div></div>
+      </aside>
+
+      <div class="catalog-content">
+        <div class="catalog-toolbar">
+          <label class="search-box" for="search"><span aria-hidden="true">⌕</span><input id="search" type="search" placeholder="Buscar por projeto, tecnologia ou tema..." autocomplete="off"></label>
+          <label class="sort-box" for="sort"><span>Ordenar:</span><select id="sort"><option value="updated">Atualizados recentemente</option><option value="name">Nome (A–Z)</option><option value="stars">Mais estrelas</option><option value="status">Finalizados primeiro</option></select></label>
+        </div>
+        <div class="catalog-meta"><p id="result-count" aria-live="polite">Carregando projetos...</p><span class="data-note" id="last-updated"></span></div>
+        <div class="repository-grid" id="repository-grid" aria-live="polite"></div>
+        <div class="empty-state" id="empty-state" hidden><span>⌕</span><h2>Nenhum projeto encontrado</h2><p>Tente remover alguns filtros ou buscar por outro termo.</p><button class="button secondary" id="empty-clear" type="button">Limpar filtros</button></div>
+      </div>
+    </section>
+  </main>
+  <footer><div class="container"><p>Feito para documentar uma jornada contínua de aprendizado.</p><a href="#topo">Voltar ao topo ↑</a></div></footer>
+  <template id="repository-card-template"><article class="repository-card"><div class="card-top"><span class="category-badge"></span><span class="status-badge"></span></div><h2 class="repository-name"></h2><p class="repository-description"></p><div class="tag-list technologies"></div><div class="card-details"><span class="language"><i></i><span></span></span><span class="platform"></span><span class="stars">★ <span></span></span></div><div class="card-footer"><time></time><a class="repository-link" target="_blank" rel="noreferrer">Abrir repositório <span aria-hidden="true">↗</span></a></div></article></template>
+  <script src="script.js"></script>
 </body>
 </html>
