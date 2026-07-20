@@ -36,4 +36,4 @@ Este repositório documenta minha jornada de estudos, contendo todo o histórico
 
 ### 🚀 Linguagens Mais Utilizadas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matthecog&layout=compact)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=matthecog&layout=compact)
