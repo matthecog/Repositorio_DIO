@@ -110,7 +110,6 @@ def first_match(topics: list[str], choices: dict[str, str], fallback: str) -> st
 def to_catalogue_entry(repository: dict[str, Any], index_name: str) -> dict[str, Any] | None:
     if (
         repository.get("private", False)
-        or repository.get("fork")
         or repository["name"].casefold() == index_name.casefold()
     ):
         return None
