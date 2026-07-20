@@ -5,10 +5,8 @@
     "url": "https://github.com/matthecog/Repositorio_Arduino",
     "language": "C++",
     "platform": "Independente",
-    "category": "Outros",
-    "technology": [
-      "iot"
-    ],
+    "category": "IoT",
+    "technology": [],
     "topics": [
       "em-andamento",
       "iot"
