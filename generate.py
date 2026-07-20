@@ -53,6 +53,7 @@ CATEGORIES = {
     "gcp": "GCP",
     "terraform": "Terraform",
     "docker": "Docker",
+    "iot": "IoT",
 
 }
 
