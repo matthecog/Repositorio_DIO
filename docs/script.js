@@ -29,7 +29,10 @@ function renderFilters() {
     });
   });
   document.querySelectorAll('[data-filter]').forEach(input => input.addEventListener('change', event => {
-    const { filter, value } = event.target.dataset; event.target.checked ? state.filters[filter].add(value) : state.filters[filter].delete(value); render();
+    const { filter } = event.target.dataset;
+    const { value } = event.target;
+    event.target.checked ? state.filters[filter].add(value) : state.filters[filter].delete(value);
+    render();
   }));
 }
 function renderStats() {
