@@ -28,4 +28,4 @@ Acesse o catálogo interativo pelo GitHub Pages ou use a tabela abaixo.
 
 Use *topics* para plataforma (`dio`, `udemy`), categoria (`backend`, `cloud`), status (`finalizado`, `andamento`) e tecnologias (`docker`, `terraform`).
 
-_Gerado automaticamente em 20/07/2026 21:23 UTC a partir dos repositórios de [matthecog](https://github.com/matthecog)._
+_Gerado automaticamente em 20/07/2026 21:41 UTC a partir dos repositórios de [matthecog](https://github.com/matthecog)._

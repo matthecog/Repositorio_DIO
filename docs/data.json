@@ -56,25 +56,13 @@
     "language": "CSS",
     "platform": "Alura",
     "category": "Backend",
-    "technology": [
-      "css",
-      "docker-compose",
-      "html",
-      "javascript",
-      "python"
-    ],
+    "technology": [],
     "topics": [
       "alura",
       "backend",
-      "css",
-      "docker",
-      "docker-compose",
       "finalizado",
       "frontend",
-      "html",
-      "ia",
-      "javascript",
-      "python"
+      "ia"
     ],
     "status": "Finalizado",
     "stars": 1,
