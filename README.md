@@ -2,7 +2,7 @@
 
 Catálogo automático dos meus repositórios de estudo no GitHub.
 
-**Projetos:** 5 · **Finalizados:** 3 · **Em andamento:** 0
+**Projetos:** 12 · **Finalizados:** 6 · **Em andamento:** 0
 
 Acesse o catálogo interativo pelo GitHub Pages ou use a tabela abaixo.
 
@@ -12,20 +12,28 @@ Acesse o catálogo interativo pelo GitHub Pages ou use a tabela abaixo.
 | --- | --- | --- | --- | --- |
 | [Repositorio_Scripts](https://github.com/matthecog/Repositorio_Scripts) | Script | Independente | PowerShell | Em atualização |
 | [Repositorio_Arduino](https://github.com/matthecog/Repositorio_Arduino) | IoT | Independente | C++ | Em atualização |
+| [olimpiadastftec2024](https://github.com/matthecog/olimpiadastftec2024) | Azure | Independente | Não informado | Finalizado |
+| [Microsoft_Application_Platform](https://github.com/matthecog/Microsoft_Application_Platform) | Azure | DIO | Não informado | Não informado |
 | [microsoft-azure-cloud-native-2026](https://github.com/matthecog/microsoft-azure-cloud-native-2026) | Azure | DIO | HTML | Finalizado |
 | [live-desafio-tech-01](https://github.com/matthecog/live-desafio-tech-01) | AWS | Fabricio Veronez | HCL | Finalizado |
 | [Imersao-Arquitetura-Web-com-IA](https://github.com/matthecog/Imersao-Arquitetura-Web-com-IA) | Backend | Alura | CSS | Finalizado |
+| [fifa2026-tickets-dev-002](https://github.com/matthecog/fifa2026-tickets-dev-002) | Azure | TFTEC | TypeScript | Não informado |
+| [dio-lab-open-source](https://github.com/matthecog/dio-lab-open-source) | Outros | DIO | Não informado | Finalizado |
+| [copa-azure-final](https://github.com/matthecog/copa-azure-final) | Azure | Independente | TypeScript | Finalizado |
+| [bolao-tftec-2026-lab](https://github.com/matthecog/bolao-tftec-2026-lab) | Azure | TFTEC | Não informado | Não informado |
+| [agentcon-pizza-workshop](https://github.com/matthecog/agentcon-pizza-workshop) | Azure | Microsoft Learn | Não informado | Não informado |
 
 ## Categorias
 
 - AWS: 1
-- Azure: 1
+- Azure: 7
 - Backend: 1
 - IoT: 1
+- Outros: 1
 - Script: 1
 
 ## Como classificar um repositório
 
 Use *topics* para plataforma (`dio`, `Alura`), categoria (`Terraform`, `cloud`), status (`finalizado`, `andamento`) e tecnologias (`docker`, `terraform`).
 
-_Gerado automaticamente em 20/07/2026 22:00 UTC a partir dos repositórios de [matthecog](https://github.com/matthecog)._
+_Gerado automaticamente em 20/07/2026 22:11 UTC a partir dos repositórios de [matthecog](https://github.com/matthecog)._

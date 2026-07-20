@@ -35,6 +35,45 @@
     "updated_at": "2026-07-20"
   },
   {
+    "name": "olimpiadastftec2024",
+    "description": "Olimpiadas TFTEC 2024",
+    "url": "https://github.com/matthecog/olimpiadastftec2024",
+    "language": "Não informado",
+    "platform": "Independente",
+    "category": "Azure",
+    "technology": [
+      "css",
+      "html",
+      "javascript"
+    ],
+    "topics": [
+      "azure",
+      "css",
+      "finalizado",
+      "html",
+      "javascript"
+    ],
+    "status": "Finalizado",
+    "stars": 0,
+    "updated_at": "2026-07-20"
+  },
+  {
+    "name": "Microsoft_Application_Platform",
+    "description": "Microsoft Application Platform",
+    "url": "https://github.com/matthecog/Microsoft_Application_Platform",
+    "language": "Não informado",
+    "platform": "DIO",
+    "category": "Azure",
+    "technology": [],
+    "topics": [
+      "azure",
+      "dio"
+    ],
+    "status": "Não informado",
+    "stars": 0,
+    "updated_at": "2026-07-20"
+  },
+  {
     "name": "microsoft-azure-cloud-native-2026",
     "description": "Este repositório documenta minha jornada prática no bootcamp   **Microsoft Azure Cloud Native 2026**, realizado na plataforma DIO.",
     "url": "https://github.com/matthecog/microsoft-azure-cloud-native-2026",
@@ -95,6 +134,125 @@
     ],
     "status": "Finalizado",
     "stars": 1,
+    "updated_at": "2026-07-20"
+  },
+  {
+    "name": "fifa2026-tickets-dev-002",
+    "description": "FIFA 2026 Tickets — TFTEC Copa do Mundo Azure",
+    "url": "https://github.com/matthecog/fifa2026-tickets-dev-002",
+    "language": "TypeScript",
+    "platform": "TFTEC",
+    "category": "Azure",
+    "technology": [
+      "banco-de-dados",
+      "fullstack",
+      "infrastructure"
+    ],
+    "topics": [
+      "azure",
+      "backend",
+      "banco-de-dados",
+      "frontend",
+      "fullstack",
+      "infrastructure",
+      "terraform",
+      "tftec"
+    ],
+    "status": "Não informado",
+    "stars": 0,
+    "updated_at": "2026-07-20"
+  },
+  {
+    "name": "dio-lab-open-source",
+    "description": "Repositório do lab \"Contribuindo em um Projeto Open Source no GitHub\" da Digital Innovation One.",
+    "url": "https://github.com/matthecog/dio-lab-open-source",
+    "language": "Não informado",
+    "platform": "DIO",
+    "category": "Outros",
+    "technology": [
+      "css",
+      "html",
+      "javascript"
+    ],
+    "topics": [
+      "css",
+      "dio",
+      "finalizado",
+      "html",
+      "javascript"
+    ],
+    "status": "Finalizado",
+    "stars": 0,
+    "updated_at": "2026-07-20"
+  },
+  {
+    "name": "copa-azure-final",
+    "description": "Copa Azure — A Grande Final: Living Lab FIFA 2026 Tickets (IA agentica MCP/RAG, observabilidade, zero-trust). Squad AIOX TFTEC.",
+    "url": "https://github.com/matthecog/copa-azure-final",
+    "language": "TypeScript",
+    "platform": "Independente",
+    "category": "Azure",
+    "technology": [
+      "actions",
+      "container",
+      "estudos",
+      "full-stack"
+    ],
+    "topics": [
+      "actions",
+      "azure",
+      "container",
+      "estudos",
+      "finalizado",
+      "full-stack"
+    ],
+    "status": "Finalizado",
+    "stars": 0,
+    "updated_at": "2026-07-20"
+  },
+  {
+    "name": "bolao-tftec-2026-lab",
+    "description": "Bolão TFTEC Cloud — FIFA World Cup 2026",
+    "url": "https://github.com/matthecog/bolao-tftec-2026-lab",
+    "language": "Não informado",
+    "platform": "TFTEC",
+    "category": "Azure",
+    "technology": [
+      "fullstack"
+    ],
+    "topics": [
+      "azure",
+      "backend",
+      "cloud",
+      "frontend",
+      "fullstack",
+      "tftec"
+    ],
+    "status": "Não informado",
+    "stars": 0,
+    "updated_at": "2026-07-20"
+  },
+  {
+    "name": "agentcon-pizza-workshop",
+    "description": "Curso Microsoft Reactor",
+    "url": "https://github.com/matthecog/agentcon-pizza-workshop",
+    "language": "Não informado",
+    "platform": "Microsoft Learn",
+    "category": "Azure",
+    "technology": [
+      "ai-agent",
+      "docker-compose"
+    ],
+    "topics": [
+      "ai-agent",
+      "azure",
+      "docker",
+      "docker-compose",
+      "ia",
+      "microsoft-learn"
+    ],
+    "status": "Não informado",
+    "stars": 0,
     "updated_at": "2026-07-20"
   }
 ]
