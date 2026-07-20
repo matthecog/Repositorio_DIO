@@ -1,5 +1,24 @@
 [
   {
+    "name": "Repositorio_Scripts",
+    "description": "Scripts criados para agilizar o trabalho na área de Infraestrutura de TI.",
+    "url": "https://github.com/matthecog/Repositorio_Scripts",
+    "language": "PowerShell",
+    "platform": "Independente",
+    "category": "Script",
+    "technology": [
+      "independente"
+    ],
+    "topics": [
+      "em-atualizacao",
+      "independente",
+      "script"
+    ],
+    "status": "Em atualização",
+    "stars": 0,
+    "updated_at": "2026-07-20"
+  },
+  {
     "name": "Repositorio_Arduino",
     "description": "Repositório Arduino, ESPHome e outros.",
     "url": "https://github.com/matthecog/Repositorio_Arduino",
@@ -8,10 +27,10 @@
     "category": "IoT",
     "technology": [],
     "topics": [
-      "em-andamento",
+      "em-atualizacao",
       "iot"
     ],
-    "status": "Em andamento",
+    "status": "Em atualização",
     "stars": 0,
     "updated_at": "2026-07-20"
   },
@@ -25,9 +44,10 @@
     "technology": [],
     "topics": [
       "azure",
-      "dio"
+      "dio",
+      "finalizado"
     ],
-    "status": "Não informado",
+    "status": "Finalizado",
     "stars": 0,
     "updated_at": "2026-07-20"
   },
@@ -38,12 +58,21 @@
     "language": "HCL",
     "platform": "Fabricio Veronez",
     "category": "AWS",
-    "technology": [],
+    "technology": [
+      "aws-cli",
+      "eks",
+      "s3",
+      "vcp"
+    ],
     "topics": [
       "aws",
+      "aws-cli",
+      "eks",
       "fabricio-veronez",
       "finalizado",
-      "terraform"
+      "s3",
+      "terraform",
+      "vcp"
     ],
     "status": "Finalizado",
     "stars": 1,
@@ -67,26 +96,5 @@
     "status": "Finalizado",
     "stars": 1,
     "updated_at": "2026-07-20"
-  },
-  {
-    "name": "Repositorio_Scripts",
-    "description": "Scripts criados para agilizar o trabalho na área de Infraestrutura de TI.",
-    "url": "https://github.com/matthecog/Repositorio_Scripts",
-    "language": "PowerShell",
-    "platform": "Independente",
-    "category": "Outros",
-    "technology": [
-      "powershell",
-      "powershell-script",
-      "script"
-    ],
-    "topics": [
-      "powershell",
-      "powershell-script",
-      "script"
-    ],
-    "status": "Não informado",
-    "stars": 0,
-    "updated_at": "2026-06-23"
   }
 ]
