@@ -6,7 +6,7 @@ Este repositório documenta minha jornada de estudos, contendo todo o histórico
 
 - Construção de um Agente de Pedidos de Pizza com Microsoft Foundry e MCP 🚀
 
-- 📂 [Pizza Workshop](/agentcon-pizza-workshop/) 
+- 📂 [Pizza Workshop](/agent-pizza-workshop/) 
 
 ### 🛠️ Tecnologias Utilizadas nos Labs
 
