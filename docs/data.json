@@ -39,7 +39,7 @@
     "description": "Olimpiadas TFTEC 2024",
     "url": "https://github.com/matthecog/olimpiadastftec2024",
     "language": "Não informado",
-    "platform": "Independente",
+    "platform": "TFTEC",
     "category": "Azure",
     "technology": [
       "css",
@@ -51,7 +51,8 @@
       "css",
       "finalizado",
       "html",
-      "javascript"
+      "javascript",
+      "tftec"
     ],
     "status": "Finalizado",
     "stars": 0,
@@ -64,12 +65,19 @@
     "language": "Não informado",
     "platform": "DIO",
     "category": "Azure",
-    "technology": [],
-    "topics": [
-      "azure",
-      "dio"
+    "technology": [
+      "app-services",
+      "azure-container-apps"
     ],
-    "status": "Não informado",
+    "topics": [
+      "app-services",
+      "azure",
+      "azure-container-apps",
+      "devops",
+      "dio",
+      "finalizado"
+    ],
+    "status": "Finalizado",
     "stars": 0,
     "updated_at": "2026-07-20"
   },
@@ -152,13 +160,14 @@
       "azure",
       "backend",
       "banco-de-dados",
+      "finalizado",
       "frontend",
       "fullstack",
       "infrastructure",
       "terraform",
       "tftec"
     ],
-    "status": "Não informado",
+    "status": "Finalizado",
     "stars": 0,
     "updated_at": "2026-07-20"
   },
@@ -190,7 +199,7 @@
     "description": "Copa Azure — A Grande Final: Living Lab FIFA 2026 Tickets (IA agentica MCP/RAG, observabilidade, zero-trust). Squad AIOX TFTEC.",
     "url": "https://github.com/matthecog/copa-azure-final",
     "language": "TypeScript",
-    "platform": "Independente",
+    "platform": "TFTEC",
     "category": "Azure",
     "technology": [
       "actions",
@@ -204,7 +213,8 @@
       "container",
       "estudos",
       "finalizado",
-      "full-stack"
+      "full-stack",
+      "tftec"
     ],
     "status": "Finalizado",
     "stars": 0,
@@ -248,10 +258,11 @@
       "azure",
       "docker",
       "docker-compose",
+      "finalizado",
       "ia",
       "microsoft-learn"
     ],
-    "status": "Não informado",
+    "status": "Finalizado",
     "stars": 0,
     "updated_at": "2026-07-20"
   }
