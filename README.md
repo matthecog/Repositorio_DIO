@@ -2,7 +2,7 @@
 
 Catálogo automático dos meus repositórios de estudo no GitHub.
 
-**Projetos:** 12 · **Finalizados:** 9 · **Em andamento:** 0
+**Projetos:** 12 · **Finalizados:** 10 · **Em andamento:** 0
 
 Acesse o catálogo interativo pelo GitHub Pages ou use a tabela abaixo.
 
@@ -20,7 +20,7 @@ Acesse o catálogo interativo pelo GitHub Pages ou use a tabela abaixo.
 | [fifa2026-tickets-dev-002](https://github.com/matthecog/fifa2026-tickets-dev-002) | Azure | TFTEC | TypeScript | Finalizado |
 | [dio-lab-open-source](https://github.com/matthecog/dio-lab-open-source) | Outros | DIO | Não informado | Finalizado |
 | [copa-azure-final](https://github.com/matthecog/copa-azure-final) | Azure | TFTEC | TypeScript | Finalizado |
-| [bolao-tftec-2026-lab](https://github.com/matthecog/bolao-tftec-2026-lab) | Azure | TFTEC | Não informado | Não informado |
+| [bolao-tftec-2026-lab](https://github.com/matthecog/bolao-tftec-2026-lab) | Azure | TFTEC | Não informado | Finalizado |
 | [agentcon-pizza-workshop](https://github.com/matthecog/agentcon-pizza-workshop) | Azure | Microsoft Learn | Não informado | Finalizado |
 
 ## Categorias
@@ -36,4 +36,4 @@ Acesse o catálogo interativo pelo GitHub Pages ou use a tabela abaixo.
 
 Use *topics* para plataforma (`dio`, `Alura`), categoria (`Terraform`, `cloud`), status (`finalizado`, `andamento`) e tecnologias (`docker`, `terraform`).
 
-_Gerado automaticamente em 20/07/2026 22:19 UTC a partir dos repositórios de [matthecog](https://github.com/matthecog)._
+_Gerado automaticamente em 20/07/2026 22:22 UTC a partir dos repositórios de [matthecog](https://github.com/matthecog)._
