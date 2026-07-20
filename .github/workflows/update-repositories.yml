@@ -1,1 +1,43 @@
-name: "Atualização Repositório"
+name: Atualizar catálogo de estudos
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+  schedule:
+    - cron: "0 2 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update-catalogue:
+    # O commit gerado abaixo também dispara o evento push; este teste evita loop.
+    if: github.event_name != 'push' || github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Baixar repositório
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Instalar dependências
+        run: pip install -r requirements.txt
+
+      - name: Gerar catálogo
+        env:
+          GITHUB_USERNAME: ${{ github.repository_owner }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          CATALOG_REPOSITORY: ${{ github.event.repository.name }}
+        run: python generate.py
+
+      - name: Salvar alterações geradas
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md docs/data.json
+          git diff --cached --quiet || git commit -m "chore: atualizar catálogo de estudos"
+          git push
