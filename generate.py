@@ -54,6 +54,7 @@ CATEGORIES = {
     "terraform": "Terraform",
     "docker": "Docker",
     "iot": "IoT",
+    "script": "Script",
 
 }
 
@@ -170,7 +171,7 @@ def render_readme(entries: list[dict[str, Any]], username: str) -> str:
         "",
         "## Como classificar um repositório",
         "",
-        "Use *topics* para plataforma (`dio`, `udemy`), categoria (`backend`, `cloud`), "
+        "Use *topics* para plataforma (`dio`, `Alura`), categoria (`Terraform`, `cloud`), "
         "status (`finalizado`, `andamento`) e tecnologias (`docker`, `terraform`).",
         "",
         f"_Gerado automaticamente em {generated_at} a partir dos repositórios de [{username}](https://github.com/{username})._",
