@@ -1,5 +1,58 @@
 [
   {
+    "name": "microsoft-azure-cloud-native-2026",
+    "description": "Este repositório documenta minha jornada prática no bootcamp   **Microsoft Azure Cloud Native 2026**, realizado na plataforma DIO.",
+    "url": "https://github.com/matthecog/microsoft-azure-cloud-native-2026",
+    "language": "HTML",
+    "platform": "DIO",
+    "category": "Azure",
+    "technology": [],
+    "topics": [
+      "azure",
+      "dio",
+      "finalizado"
+    ],
+    "status": "Finalizado",
+    "stars": 0,
+    "updated_at": "2026-07-21"
+  },
+  {
+    "name": "matthecog",
+    "description": "Sem descrição.",
+    "url": "https://github.com/matthecog/matthecog",
+    "language": "Não informado",
+    "platform": "Independente",
+    "category": "Outros",
+    "technology": [],
+    "topics": [],
+    "status": "Não informado",
+    "stars": 0,
+    "updated_at": "2026-07-21"
+  },
+  {
+    "name": "dio-lab-open-source",
+    "description": "Repositório do lab \"Contribuindo em um Projeto Open Source no GitHub\" da Digital Innovation One.",
+    "url": "https://github.com/matthecog/dio-lab-open-source",
+    "language": "Jupyter Notebook",
+    "platform": "DIO",
+    "category": "Outros",
+    "technology": [
+      "css",
+      "html",
+      "javascript"
+    ],
+    "topics": [
+      "css",
+      "dio",
+      "finalizado",
+      "html",
+      "javascript"
+    ],
+    "status": "Finalizado",
+    "stars": 0,
+    "updated_at": "2026-07-21"
+  },
+  {
     "name": "Repositorio_Scripts",
     "description": "Scripts criados para agilizar o trabalho na área de Infraestrutura de TI.",
     "url": "https://github.com/matthecog/Repositorio_Scripts",
@@ -82,23 +135,6 @@
     "updated_at": "2026-07-20"
   },
   {
-    "name": "microsoft-azure-cloud-native-2026",
-    "description": "Este repositório documenta minha jornada prática no bootcamp   **Microsoft Azure Cloud Native 2026**, realizado na plataforma DIO.",
-    "url": "https://github.com/matthecog/microsoft-azure-cloud-native-2026",
-    "language": "HTML",
-    "platform": "DIO",
-    "category": "Azure",
-    "technology": [],
-    "topics": [
-      "azure",
-      "dio",
-      "finalizado"
-    ],
-    "status": "Finalizado",
-    "stars": 0,
-    "updated_at": "2026-07-20"
-  },
-  {
     "name": "live-desafio-tech-01",
     "description": "Sem descrição.",
     "url": "https://github.com/matthecog/live-desafio-tech-01",
@@ -166,29 +202,6 @@
       "infrastructure",
       "terraform",
       "tftec"
-    ],
-    "status": "Finalizado",
-    "stars": 0,
-    "updated_at": "2026-07-20"
-  },
-  {
-    "name": "dio-lab-open-source",
-    "description": "Repositório do lab \"Contribuindo em um Projeto Open Source no GitHub\" da Digital Innovation One.",
-    "url": "https://github.com/matthecog/dio-lab-open-source",
-    "language": "Não informado",
-    "platform": "DIO",
-    "category": "Outros",
-    "technology": [
-      "css",
-      "html",
-      "javascript"
-    ],
-    "topics": [
-      "css",
-      "dio",
-      "finalizado",
-      "html",
-      "javascript"
     ],
     "status": "Finalizado",
     "stars": 0,
