@@ -10,6 +10,7 @@ Acesse o catálogo interativo pelo GitHub Pages ou use a tabela abaixo.
 
 | Projeto | Categoria | Plataforma | Linguagem | Status |
 | --- | --- | --- | --- | --- |
+| [live-desafio-tech-01](https://github.com/matthecog/live-desafio-tech-01) | AWS | Fabricio Veronez | HCL | Finalizado |
 | [microsoft-azure-cloud-native-2026](https://github.com/matthecog/microsoft-azure-cloud-native-2026) | Azure | DIO | HTML | Finalizado |
 | [matthecog](https://github.com/matthecog/matthecog) | Outros | Independente | Não informado | Não informado |
 | [dio-lab-open-source](https://github.com/matthecog/dio-lab-open-source) | Outros | DIO | Jupyter Notebook | Finalizado |
@@ -17,7 +18,6 @@ Acesse o catálogo interativo pelo GitHub Pages ou use a tabela abaixo.
 | [Repositorio_Arduino](https://github.com/matthecog/Repositorio_Arduino) | IoT | Independente | C++ | Em atualização |
 | [olimpiadastftec2024](https://github.com/matthecog/olimpiadastftec2024) | Azure | TFTEC | Não informado | Finalizado |
 | [Microsoft_Application_Platform](https://github.com/matthecog/Microsoft_Application_Platform) | Azure | DIO | Não informado | Finalizado |
-| [live-desafio-tech-01](https://github.com/matthecog/live-desafio-tech-01) | AWS | Fabricio Veronez | HCL | Finalizado |
 | [Imersao-Arquitetura-Web-com-IA](https://github.com/matthecog/Imersao-Arquitetura-Web-com-IA) | Backend | Alura | CSS | Finalizado |
 | [fifa2026-tickets-dev-002](https://github.com/matthecog/fifa2026-tickets-dev-002) | Azure | TFTEC | TypeScript | Finalizado |
 | [copa-azure-final](https://github.com/matthecog/copa-azure-final) | Azure | TFTEC | TypeScript | Finalizado |
@@ -37,4 +37,4 @@ Acesse o catálogo interativo pelo GitHub Pages ou use a tabela abaixo.
 
 Use *topics* para plataforma (`dio`, `Alura`), categoria (`Terraform`, `cloud`), status (`finalizado`, `andamento`) e tecnologias (`docker`, `terraform`).
 
-_Gerado automaticamente em 21/07/2026 05:18 UTC a partir dos repositórios de [matthecog](https://github.com/matthecog)._
+_Gerado automaticamente em 22/07/2026 05:17 UTC a partir dos repositórios de [matthecog](https://github.com/matthecog)._

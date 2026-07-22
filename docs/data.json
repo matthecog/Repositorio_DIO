@@ -1,5 +1,32 @@
 [
   {
+    "name": "live-desafio-tech-01",
+    "description": "Sem descrição.",
+    "url": "https://github.com/matthecog/live-desafio-tech-01",
+    "language": "HCL",
+    "platform": "Fabricio Veronez",
+    "category": "AWS",
+    "technology": [
+      "aws-cli",
+      "eks",
+      "s3",
+      "vcp"
+    ],
+    "topics": [
+      "aws",
+      "aws-cli",
+      "eks",
+      "fabricio-veronez",
+      "finalizado",
+      "s3",
+      "terraform",
+      "vcp"
+    ],
+    "status": "Finalizado",
+    "stars": 1,
+    "updated_at": "2026-07-22"
+  },
+  {
     "name": "microsoft-azure-cloud-native-2026",
     "description": "Este repositório documenta minha jornada prática no bootcamp   **Microsoft Azure Cloud Native 2026**, realizado na plataforma DIO.",
     "url": "https://github.com/matthecog/microsoft-azure-cloud-native-2026",
@@ -132,33 +159,6 @@
     ],
     "status": "Finalizado",
     "stars": 0,
-    "updated_at": "2026-07-20"
-  },
-  {
-    "name": "live-desafio-tech-01",
-    "description": "Sem descrição.",
-    "url": "https://github.com/matthecog/live-desafio-tech-01",
-    "language": "HCL",
-    "platform": "Fabricio Veronez",
-    "category": "AWS",
-    "technology": [
-      "aws-cli",
-      "eks",
-      "s3",
-      "vcp"
-    ],
-    "topics": [
-      "aws",
-      "aws-cli",
-      "eks",
-      "fabricio-veronez",
-      "finalizado",
-      "s3",
-      "terraform",
-      "vcp"
-    ],
-    "status": "Finalizado",
-    "stars": 1,
     "updated_at": "2026-07-20"
   },
   {
