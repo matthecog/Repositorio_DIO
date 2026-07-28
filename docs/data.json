@@ -23,8 +23,27 @@
       "vcp"
     ],
     "status": "Finalizado",
-    "stars": 1,
-    "updated_at": "2026-07-22"
+    "stars": 0,
+    "updated_at": "2026-07-28"
+  },
+  {
+    "name": "Imersao-Arquitetura-Web-com-IA",
+    "description": "Durante a Imersão Arquitetura Web com IA, você vai entender na prática como aplicações modernas funcionam de ponta a ponta. Explorar conceitos como frontend, backend, HTTP, Client-Server e Separação de Responsabilidades, enquanto desenvolve uma aplicação funcional com apoio da IA.",
+    "url": "https://github.com/matthecog/Imersao-Arquitetura-Web-com-IA",
+    "language": "CSS",
+    "platform": "Alura",
+    "category": "Backend",
+    "technology": [],
+    "topics": [
+      "alura",
+      "backend",
+      "finalizado",
+      "frontend",
+      "ia"
+    ],
+    "status": "Finalizado",
+    "stars": 0,
+    "updated_at": "2026-07-28"
   },
   {
     "name": "microsoft-azure-cloud-native-2026",
@@ -159,25 +178,6 @@
     ],
     "status": "Finalizado",
     "stars": 0,
-    "updated_at": "2026-07-20"
-  },
-  {
-    "name": "Imersao-Arquitetura-Web-com-IA",
-    "description": "Durante a Imersão Arquitetura Web com IA, você vai entender na prática como aplicações modernas funcionam de ponta a ponta. Explorar conceitos como frontend, backend, HTTP, Client-Server e Separação de Responsabilidades, enquanto desenvolve uma aplicação funcional com apoio da IA.",
-    "url": "https://github.com/matthecog/Imersao-Arquitetura-Web-com-IA",
-    "language": "CSS",
-    "platform": "Alura",
-    "category": "Backend",
-    "technology": [],
-    "topics": [
-      "alura",
-      "backend",
-      "finalizado",
-      "frontend",
-      "ia"
-    ],
-    "status": "Finalizado",
-    "stars": 1,
     "updated_at": "2026-07-20"
   },
   {
