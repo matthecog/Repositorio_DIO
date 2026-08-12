@@ -1,5 +1,22 @@
 [
   {
+    "name": "microsoft-azure-cloud-native-2026",
+    "description": "Este repositório documenta minha jornada prática no bootcamp   **Microsoft Azure Cloud Native 2026**, realizado na plataforma DIO.",
+    "url": "https://github.com/matthecog/microsoft-azure-cloud-native-2026",
+    "language": "JavaScript",
+    "platform": "DIO",
+    "category": "Azure",
+    "technology": [],
+    "topics": [
+      "azure",
+      "dio",
+      "finalizado"
+    ],
+    "status": "Finalizado",
+    "stars": 0,
+    "updated_at": "2026-08-11"
+  },
+  {
     "name": "live-desafio-tech-01",
     "description": "Sem descrição.",
     "url": "https://github.com/matthecog/live-desafio-tech-01",
@@ -44,23 +61,6 @@
     "status": "Finalizado",
     "stars": 0,
     "updated_at": "2026-07-28"
-  },
-  {
-    "name": "microsoft-azure-cloud-native-2026",
-    "description": "Este repositório documenta minha jornada prática no bootcamp   **Microsoft Azure Cloud Native 2026**, realizado na plataforma DIO.",
-    "url": "https://github.com/matthecog/microsoft-azure-cloud-native-2026",
-    "language": "HTML",
-    "platform": "DIO",
-    "category": "Azure",
-    "technology": [],
-    "topics": [
-      "azure",
-      "dio",
-      "finalizado"
-    ],
-    "status": "Finalizado",
-    "stars": 0,
-    "updated_at": "2026-07-21"
   },
   {
     "name": "matthecog",

@@ -10,9 +10,9 @@ Acesse o catálogo interativo pelo GitHub Pages ou use a tabela abaixo.
 
 | Projeto | Categoria | Plataforma | Linguagem | Status |
 | --- | --- | --- | --- | --- |
+| [microsoft-azure-cloud-native-2026](https://github.com/matthecog/microsoft-azure-cloud-native-2026) | Azure | DIO | JavaScript | Finalizado |
 | [live-desafio-tech-01](https://github.com/matthecog/live-desafio-tech-01) | AWS | Fabricio Veronez | HCL | Finalizado |
 | [Imersao-Arquitetura-Web-com-IA](https://github.com/matthecog/Imersao-Arquitetura-Web-com-IA) | Backend | Alura | CSS | Finalizado |
-| [microsoft-azure-cloud-native-2026](https://github.com/matthecog/microsoft-azure-cloud-native-2026) | Azure | DIO | HTML | Finalizado |
 | [matthecog](https://github.com/matthecog/matthecog) | Outros | Independente | Não informado | Não informado |
 | [dio-lab-open-source](https://github.com/matthecog/dio-lab-open-source) | Outros | DIO | Jupyter Notebook | Finalizado |
 | [Repositorio_Scripts](https://github.com/matthecog/Repositorio_Scripts) | Script | Independente | PowerShell | Em atualização |
@@ -37,4 +37,4 @@ Acesse o catálogo interativo pelo GitHub Pages ou use a tabela abaixo.
 
 Use *topics* para plataforma (`dio`, `Alura`), categoria (`Terraform`, `cloud`), status (`finalizado`, `andamento`) e tecnologias (`docker`, `terraform`).
 
-_Gerado automaticamente em 11/08/2026 03:40 UTC a partir dos repositórios de [matthecog](https://github.com/matthecog)._
+_Gerado automaticamente em 12/08/2026 04:03 UTC a partir dos repositórios de [matthecog](https://github.com/matthecog)._
